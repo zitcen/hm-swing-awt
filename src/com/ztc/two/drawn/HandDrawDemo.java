@@ -34,6 +34,8 @@ public class HandDrawDemo {
     //定义窗口对象
     private Frame frame = new Frame("简单手绘程序");
 
+
+
     //定义画布对象
     private Canvas drawArea = new Canvas() {
         @Override
